@@ -1,0 +1,25 @@
+names:
+- Amir khan
+- Amitabh bachan
+- Huraim
+- ibrahim
+- masood
+- muqeet
+- nauman
+- nawaz ud din
+- parabhas
+- saad
+- salman khan
+- shahrukh khan
+- suleman
+- waseem badami
+nc: 14
+roboflow:
+  license: CC BY 4.0
+  project: face-recognition-wbsct
+  url: https://universe.roboflow.com/nano-plug/face-recognition-wbsct/dataset/4
+  version: 4
+  workspace: nano-plug
+test: ../test/images
+train: yolov5/models/dataset/Face-Recognition--4/train/images
+val: yolov5/models/dataset/Face-Recognition--4/valid/images
